@@ -15,3 +15,4 @@ The second chart visualizes the checkout time by gender. It shows that males are
 The third chart is a heat map of the data. Based on the visualization, the most popular times seem to be 8AM, and between the hours of 5-6PM.
 #Summary
 Based on the visualizations for Bike Sharing, Des Moines should be successful with their bike sharing model, if they were to move forward with it. It seems that males seem to be the ones who utilize the bike sharing more than females or other genders. Two other visualizations I would perform would be the age groups and areas of the cities that are most popular. If we were to see the age groups, we may be able to better plan for a model based on each age group.
+[link to dashboard](https://public.tableau.com/app/profile/angelica.rosario/viz/BikeSharing_16654585486250/Sheet1?publish=yes)
